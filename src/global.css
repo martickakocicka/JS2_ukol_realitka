@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  max-width: 20rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(226, 56, 226, 0.073);
+}

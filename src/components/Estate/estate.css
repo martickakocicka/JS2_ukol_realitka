@@ -1,0 +1,41 @@
+h2 {
+  margin: 5% 0 0 5%;
+}
+img {
+  width: 50%;
+
+  margin: 2% 5% 5% 5%;
+  padding: 1%;
+  border: 4px double purple;
+  float: left;
+}
+h3 {
+  margin: 2% 0 0 5%;
+}
+p {
+  font-family: Raleway;
+  font-size: 16px;
+  margin: 5% 2% 2% 5%;
+  text-align: block;
+  line-height: 1.8em;
+}
+
+.cena {
+  margin: 7% 5% 5% 5%;
+}
+.kontakt {
+  background-color: rgb(143, 117, 143);
+  padding: 5%;
+}
+li {
+  list-style: none;
+  font-weight: 500;
+  margin-right: 5%;
+}
+.jmeno {
+  font-size: 18px;
+  margin-top: 2% 0 1%;
+}
+.seznam {
+  margin: 0% 0% 2% 0%;
+}

@@ -1,0 +1,32 @@
+.hlavicka {
+  background-color: black;
+  width: 100%;
+  height: fit-content;
+  margin-top: 0;
+}
+h1 {
+  color: rgba(226, 56, 226, 0.918);
+  font-family: Major Mono Display;
+  font-weight: 400;
+  padding: 15px 10px 10px 10px;
+  margin-left: 5%;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+}
+nav a {
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #380538;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 20px;
+  margin: 0.5em;
+}
+
+nav a:hover {
+  background-color: rgb(243, 210, 242);
+}
